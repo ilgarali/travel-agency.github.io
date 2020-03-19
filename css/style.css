@@ -1,0 +1,356 @@
+/* ----------
+# General Settings
+------------ */
+
+
+
+h1, h3 , p , input {
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
+h2,h5 {
+
+font-family: 'Montserrat', sans-serif;
+
+
+}
+
+
+
+
+
+
+
+nav.shrink {
+
+padding: 0;
+background-color: #e74c3c !important;
+
+}
+
+
+#mainNav .navbar-toggler {
+
+font-size: 12px;
+right: 0;
+padding: 13px;
+text-transform: uppercase;
+color: white;
+border: 0;
+background-color: #e74c3c;
+
+}
+
+nav.shrink  .navbar-nav .nav-item .nav-link:hover ,
+nav.shrink  .navbar-brand:hover {
+
+color: black !important;
+
+
+}
+
+
+.navbar-brand.shrink, .navbar-container.shrink, navbar.fix-top.shrink,
+.navbar-brand, .navbar-container {
+
+transition: 0.8s;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------
+# Header 
+------------ */
+
+
+header {
+
+height: 600px;
+background-image: url(../img/slidemain.png);
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+header nav a {
+
+color: white !important;
+
+}
+
+header nav a:hover {
+
+color: black !important;
+
+
+}
+
+header .main-items {
+
+margin-top: 270px;
+
+
+}
+
+header .main-items h1{
+
+font-size: 52px;
+color: #fff;
+
+font-weight: 100;
+margin-bottom: 40px;
+
+}
+
+
+header .main-items input {
+
+
+width: 327px;
+height: 44px;
+border: none;
+
+}
+
+header .main-items button {
+
+width: 120px;
+height: 44px;
+background-color: #fd4f32;
+border: none;
+
+}
+
+
+/* ----------
+# Destinations 
+------------ */
+
+
+#dest {
+
+background-color: #eee ;
+padding-bottom: 70px;
+
+
+}
+
+#dest .card {
+
+position: relative;
+
+}
+#dest .card .price {
+color: #fff;
+position: absolute;
+top: 50%;
+left: 75%;
+
+}
+#dest .card h5 {
+
+text-transform: uppercase;
+font-size: 16px;
+font-weight: 600;
+
+}
+
+
+/* ----------
+# Before 
+------------ */
+
+#before {
+
+padding-bottom: 50px;
+
+}
+
+
+#before h3 {
+
+font-size: 52px;
+font-weight: 200;
+
+}
+
+
+#before h4 {
+
+
+font-weight: 400;
+text-transform: uppercase;
+margin-bottom: 20px;
+
+}
+
+
+#before input {
+
+
+width: 327px;
+height: 43px;
+border: none;
+background-color: #eee;
+
+
+
+}
+
+
+
+#before button {
+
+
+width: 150px;
+height: 45px;
+background-color: #fd4f32;
+border: none;
+
+
+}
+
+
+#before h5{
+font-size: 17px;
+font-weight: 700;
+
+text-transform: uppercase;
+margin-bottom: 20px;
+
+}
+
+
+
+/* ----------
+# Footer
+------------ */
+
+footer {
+
+background-color: #eee;
+
+}
+
+footer p, footer ul {
+
+padding-top: 20px;
+display: inline-block;
+
+}
+
+
+footer ul {
+
+float: right;
+margin: 0;
+padding-left: 10px;
+
+
+}
+
+footer ul li {
+
+list-style: none;
+margin: 0;
+padding: 0;
+}
+footer ul li a {
+
+color: black;
+font-size: 17px;
+font-weight: 500;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
